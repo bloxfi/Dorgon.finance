@@ -429,7 +429,7 @@ contract Ownable is Context {
 
 
 
-contract HOGE is Context, IERC20, Ownable {
+contract Dorgon.finance is Context, IERC20, Ownable {
     using SafeMath for uint256;
     using Address for address;
 
